@@ -7,12 +7,13 @@ import Abovebottom from "./comp/abovebottom.jsx";
 import Bottom from "./comp/bottom.jsx";
 import Login from "./comp/login.jsx";
 import Register from "./comp/register.jsx";
-import {BrowserRouter,Routes,Route} from 'react-router-dom'
+import {BrowserRouter,Routes,Route,HashRouter} from 'react-router-dom'
 
 
 function App() {
   return (
     <BrowserRouter>
+      <HashRouter basename="/">
         <Routes>
         <Route path="/" exact={true} element={
             <>
@@ -27,6 +28,7 @@ function App() {
         <Route path="/Login" exact={true} element={<Login />} />
         <Route path="Register" exact={true} element={<Register />} />
         </Routes>
+      </HashRouter>
     </BrowserRouter>
   );
 }
