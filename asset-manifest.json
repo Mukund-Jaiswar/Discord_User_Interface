@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Discord_User_Interface/static/css/main.8d5fb22c.css",
-    "main.js": "/Discord_User_Interface/static/js/main.a9478cc0.js",
+    "main.js": "/Discord_User_Interface/static/js/main.8d0bfb72.js",
     "static/js/787.ef2800aa.chunk.js": "/Discord_User_Interface/static/js/787.ef2800aa.chunk.js",
     "static/media/hanging_out_easy_landing.svg": "/Discord_User_Interface/static/media/hanging_out_easy_landing.76aa061defcd84b0b1be95f7fe43fc55.svg",
     "static/media/invite_only_landing.svg": "/Discord_User_Interface/static/media/invite_only_landing.01a90db7884c5a12e78cf5f0555a8dff.svg",
@@ -18,11 +18,11 @@
     "static/media/download.svg": "/Discord_User_Interface/static/media/download.023225957852a42048dd7e6286686534.svg",
     "index.html": "/Discord_User_Interface/index.html",
     "main.8d5fb22c.css.map": "/Discord_User_Interface/static/css/main.8d5fb22c.css.map",
-    "main.a9478cc0.js.map": "/Discord_User_Interface/static/js/main.a9478cc0.js.map",
+    "main.8d0bfb72.js.map": "/Discord_User_Interface/static/js/main.8d0bfb72.js.map",
     "787.ef2800aa.chunk.js.map": "/Discord_User_Interface/static/js/787.ef2800aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d5fb22c.css",
-    "static/js/main.a9478cc0.js"
+    "static/js/main.8d0bfb72.js"
   ]
 }
