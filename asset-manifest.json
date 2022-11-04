@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Discord_User_Interface/static/css/main.8d5fb22c.css",
+    "main.js": "/Discord_User_Interface/static/js/main.013dfac4.js",
+    "static/js/787.ef2800aa.chunk.js": "/Discord_User_Interface/static/js/787.ef2800aa.chunk.js",
+    "static/media/hanging_out_easy_landing.svg": "/Discord_User_Interface/static/media/hanging_out_easy_landing.76aa061defcd84b0b1be95f7fe43fc55.svg",
+    "static/media/invite_only_landing.svg": "/Discord_User_Interface/static/media/invite_only_landing.01a90db7884c5a12e78cf5f0555a8dff.svg",
+    "static/media/fandom_landing.svg": "/Discord_User_Interface/static/media/fandom_landing.e11d964d89cc1656aa2fd855f2211e0e.svg",
+    "static/media/just_chiling_landing.svg": "/Discord_User_Interface/static/media/just_chiling_landing.138358882363f0e5fd113e6598420438.svg",
+    "static/media/login_bg.svg": "/Discord_User_Interface/static/media/login_bg.b67fa1d1e35090b9eda13c2d832d735e.svg",
+    "static/media/left_bg_landing_header.svg": "/Discord_User_Interface/static/media/left_bg_landing_header.a565fcc49825c93d896e.svg",
+    "static/media/right_bg_landing_header.svg": "/Discord_User_Interface/static/media/right_bg_landing_header.4412ed0aecaa5e680e28.svg",
+    "static/media/center_bg_landing_header.svg": "/Discord_User_Interface/static/media/center_bg_landing_header.cee8c404dad14e615fd4.svg",
+    "static/media/discord_main_logo.svg": "/Discord_User_Interface/static/media/discord_main_logo.8694a6a1eb56f1387f678c26a355c083.svg",
+    "static/media/discord_main_logo_black.svg": "/Discord_User_Interface/static/media/discord_main_logo_black.5cf87f7c71768df2e64554829d272e7e.svg",
+    "static/media/tiny_stars_landing.svg": "/Discord_User_Interface/static/media/tiny_stars_landing.c8abe2773b2b560ec726.svg",
+    "static/media/discord_mini_icon.svg": "/Discord_User_Interface/static/media/discord_mini_icon.ed7f443500e65cc87d49111f1e2870fe.svg",
+    "static/media/download.svg": "/Discord_User_Interface/static/media/download.023225957852a42048dd7e6286686534.svg",
+    "index.html": "/Discord_User_Interface/index.html",
+    "main.8d5fb22c.css.map": "/Discord_User_Interface/static/css/main.8d5fb22c.css.map",
+    "main.013dfac4.js.map": "/Discord_User_Interface/static/js/main.013dfac4.js.map",
+    "787.ef2800aa.chunk.js.map": "/Discord_User_Interface/static/js/787.ef2800aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5fb22c.css",
+    "static/js/main.013dfac4.js"
+  ]
+}
