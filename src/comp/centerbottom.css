@@ -1,0 +1,19 @@
+.centerbottom{
+    @apply grid onetwo:grid-cols-[63.5%_36.5%] bg-white lgxl:grid-cols-[56%_44%] lg:grid-cols-[52%_48%] md:grid-cols-[48%_52%] lg:h-[48vw] md:h-[55vw]
+}
+
+.cbimage{
+    @apply lg:pl-[6%] lg:pr-[9%] lg:pt-[15%] lg:pb-[15%] md:pt-[20%]
+}
+
+.cb{
+    @apply grid grid-rows-[35%_65%] lg:pl-[8%] pr-[6%] md:pl-[4%]
+}
+
+.cb1{
+    @apply lg:text-5xl font-bold lg:pr-[7%] lg:leading-[3.5rem] md:leading-[2.8rem] onetwo:pt-[37%] text-gray-800 lgxl:pt-[30%] lg:pt-[16%] md:pt-[15%] md:pr-[6%] md:text-[4.5vw]
+}
+
+.cb2{
+    @apply lg:text-[1.15rem] lg:leading-[2rem] md:leading-[1.8rem] lg:pr-[10%] lgxl:pt-[13%] text-gray-700 lg:pt-[5%] md:pb-[2%] md:pr-[10%] md:text-[2vw]
+}

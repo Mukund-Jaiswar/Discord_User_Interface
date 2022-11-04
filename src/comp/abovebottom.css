@@ -1,0 +1,51 @@
+.abovebottom{
+    @apply grid grid-rows-[20%_60%_20%] bg-gray-100 lg:h-[100vw] md:h-[115vw]
+}
+
+.divhead{
+    @apply grid grid-rows-[60%_40%]
+}
+
+.divhead1{
+    align-self: end;
+    justify-self: center;
+    transform: scaleY(0.65);
+    @apply text-6xl font-extrabold text-gray-800 tracking-[-0.071em] text-center
+}
+
+.divhead2{
+    align-self: start;
+    justify-self: center;
+    @apply text-[1.16rem] text-gray-700 text-center px-[11.5%] pt-[1.2%] leading-[2rem]
+}
+
+.chillimage{
+    @apply px-[5%]
+}
+
+.belowdiv{
+    @apply grid grid-rows-[35%_65%]
+}
+
+.tinystar{
+    background-image: url(../assets/tiny_stars_landing.svg);
+    @apply grid grid-rows-[70%_30%] font-[750] text-[2.1rem] mx-[28%] bg-no-repeat
+}
+
+.tinystar div{
+    align-self: end;
+    justify-self: center;
+    @apply text-center
+}
+
+.download{
+    align-self: start;
+    justify-self: center;
+    @apply grid gap-x-2 grid-cols-[10%_90%] bg-[#5865f2] py-[1.2%] px-[2.8%] rounded-full text-white text-[1.16rem] font-[450] hover:cursor-pointer
+}
+
+.download svg{
+    align-self: center;
+    justify-self: center;
+    @apply fill-white h-5 w-5 font-medium 
+}

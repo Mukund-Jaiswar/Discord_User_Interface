@@ -1,0 +1,19 @@
+.centermiddle{
+    @apply grid lgxl:grid-cols-[37%_63%] bg-gray-100 lg:grid-cols-[44%_56%] md:grid-cols-[44%_56%] lg:h-[48vw] md:h-[55vw]
+}
+
+.cmimage{
+    @apply pl-[10%] pr-[5%] pt-[15%] pb-[15%]
+}
+
+.cm{
+    @apply grid lgxl:grid-rows-[50%_50%] pl-[10%] pr-[4%] lg:grid-rows-[40%_60%] md:grid-rows-[40%_60%]
+}
+
+.cm1{
+    @apply lg:text-5xl font-bold onetwo:pr-[7%] lg:leading-[3.5rem] md:leading-[2.8rem] lgxl:pt-[50%] text-gray-800 md:pr-[0%] lg:pt-[20%] md:pt-[27%] md:text-[4.5vw]
+}
+
+.cm2{
+    @apply lg:text-[1.15rem] lg:leading-[2rem] md:leading-[1.8rem] pr-[10%] pt-[3%] text-gray-700 md:text-[2vw]
+}

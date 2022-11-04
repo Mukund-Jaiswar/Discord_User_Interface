@@ -1,0 +1,32 @@
+.bottom{
+    @apply grid lg:grid-rows-[74%_26%] px-[3%] lgxl:h-[40vw] bg-[#23272a] text-white lg:h-[45vw] md:h-[76vw] md:grid-rows-[80%_20%]
+} 
+
+.sociallinks{
+    @apply grid lg:grid-cols-[35%_65%] border-b-[1.5px] border-[#5865f2] md:grid-cols-[45%_55%]
+}
+
+.social{
+    @apply grid grid-rows-[40%_15%_45%] pt-[15%] md:pb-[45%] lg:pb-[0%]
+}
+
+.social h1{
+    transform: scaleY(0.65);
+    @apply font-extrabold text-5xl pr-[20%] tracking-tighter text-[#5865f2] 
+}
+
+.socialicons{
+    @apply grid grid-cols-4 pr-[55%]
+}
+
+.socialicons img{
+    @apply h-10 w-10
+}
+
+.links{
+    @apply grid lg:grid-cols-4 pt-[12%] text-base font-[350] md:grid-cols-2
+}
+
+.linkselem{
+    @apply mb-[3%] hover:underline cursor-pointer
+}

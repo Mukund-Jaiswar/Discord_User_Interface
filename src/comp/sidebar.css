@@ -1,0 +1,12 @@
+.sidebar{
+    @apply grid grid-rows-[80px_490px_120px] absolute bg-white h-[690px] w-[320px] right-0 top-0 rounded-l-lg translate-x-full
+}
+
+li{
+    @apply text-gray-900 hover:underline cursor-pointer;
+}
+
+.sidebar-open{
+    display: grid;
+    transform: translateX(0%);
+}

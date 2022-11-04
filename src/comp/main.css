@@ -1,0 +1,86 @@
+.main{
+    background-image: url(../assets/left_bg_landing_header.svg),url(../assets/right_bg_landing_header.svg),url(../assets/center_bg_landing_header.svg);
+}
+
+.main{
+    @apply w-[100%] bg-[length:50vw_41vw,_49vw_39vw,_cover] bg-[#404eed] bg-[position:-55%_195%,_157%_160%,_center] bg-no-repeat grid xl:grid-rows-[13%_87%] lgxl:h-[627px] lg:h-[650px] lg:grid-rows-[13%_87%] md:h-[745px] md:grid-rows-[11%_89%]
+}
+
+.nav{
+    @apply lg:grid lg:grid-cols-[16.5%_67%_16.5%] sm:flex lg:px-[0%] sm:px-[5%]
+}
+
+.leftnav{
+    @apply hover:cursor-pointer self-center justify-self-center; 
+}
+
+.centernav{
+    @apply grid grid-cols-7 px-[14%] lg:px-[5%] xl:px-[14%];
+}
+
+#elem1{
+    @apply hover:underline cursor-pointer;
+}
+#elem2{
+    @apply hover:underline cursor-pointer;
+}
+#elem3{
+    @apply hover:underline cursor-pointer;
+}
+#elem4{
+    @apply hover:underline cursor-pointer;
+}
+#elem5{
+    @apply hover:underline cursor-pointer;
+}
+#elem6{
+    @apply hover:underline cursor-pointer;
+}
+#elem7{
+    @apply hover:underline cursor-pointer;
+}
+
+.navelem{
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    @apply text-white font-semibold text-[0.925rem] self-center justify-self-center
+}
+
+.rightnav{
+    @apply grid grid-cols-1 bg-white rounded-full mx-[30%] my-[12%] text-sm hover:cursor-pointer;
+}
+
+.rightnav p{
+    @apply self-center justify-self-center;
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.maincontent{
+    @apply grid grid-rows-[27%_40%_33%] lgxl:pt-[8%] lgxl:pb-[10%] lg:pt-[10%] lg:pb-[8%] lg:px-[15%] md:pl-[5%] md:pr-[30%]
+    md:pt-[5.8%] md:pb-[11%];
+
+}
+
+.maincontent1{
+    transform: scaleY(0.7);
+    @apply text-white font-[1000] text-[4.8rem] tracking-tighter self-start justify-self-center leading-none lg:text-center lg:px-[8%] lgxl:px-[0%]
+}
+
+.maincontent2{
+    @apply text-white text-[1.16rem] leading-8 justify-self-center lg:self-end lgxl:self-center lg:text-center md:self-center lg:px-[6%]
+}
+
+.maincontent3{
+    @apply lg:grid lg:gap-x-2 lg:grid-cols-[50%_50%]
+}
+
+.maincontent31{
+    @apply grid gap-x-2 grid-cols-[10%_90%] bg-white text-gray-800 rounded-full lg:px-[6%] py-[2.5%] text-[1.16rem] font-medium self-center justify-self-end lg:mr-[4%] md:mb-[3%] lg:mb-[0%] md:mr-[40%] md:pl-[5%] hover:cursor-pointer;
+}
+
+.maincontent31 img{
+    @apply h-5 w-5 self-center justify-self-center font-medium
+}
+
+.maincontent32{
+    @apply text-white rounded-full lg:px-[4.5%] py-[2.5%] text-xl font-normal bg-[#27272a] self-center justify-self-start lg:mr-[0%] md:mr-[40%] md:pl-[5%] hover:cursor-pointer;
+}
